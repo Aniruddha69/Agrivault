@@ -5,8 +5,8 @@
 
 ## Table of Contents
 
-1. [Executive Summary](## Executive Summary)
-2. [Business Model](##business-model)
+1. [Executive Summary](#executive-summary)
+2. [Business Model](#business-model)
 3. [ECSC Technology](#ecsc-technology)
 4. [Cost Breakdown](#cost-breakdown)
 5. [Revenue Streams](#revenue-streams)
