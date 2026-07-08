@@ -4,19 +4,6 @@
 
 ## Business Overview
 
-1. [Executive Summary](#executive-summary)
-2. [Business Model](#business-model)
-3. [ECSC Technology](#ecsc-technology)
-4. [Cost Breakdown](#cost-breakdown)
-5. [Revenue Streams](#revenue-streams)
-6. [Weather Protection Solutions](#weather-protection-solutions)
-7. [Reinvestment Strategies](#reinvestment-strategies)
-8. [5-Year Financial Projections](#5-year-financial-projections)
-9. [10-Year Financial Projections](#10-year-financial-projections)
-10. [Comparison Analysis](#comparison-analysis)
-11. [Risk Analysis](#risk-analysis)
-12. [Recommendations](#recommendations)
-
 | Parameter                  | Value         | Source/Proof                                                                 |
 | -------------------------- | ------------- | ---------------------------------------------------------------------------- |
 | **Starting Units**         | 150           | 70% reinvestment model                                                       |
