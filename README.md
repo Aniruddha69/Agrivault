@@ -18,7 +18,7 @@
 
 ### What is ECSC?
 
-ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage technology** that uses water evaporation to cool produce **without electricity**.
+ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage technology** that uses water evaporation to cool produce .
 
 ### How It Works
 
@@ -182,25 +182,23 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 
 | Expense | Per Unit/Year | Per Unit/Month | Source/Proof |
 |---|---|---|---|
-| **Labor (Salary)** | ₹10,000 | ₹833 | 1 worker per 25 units @ ₹12K/month |
-| **Water** | ₹2,000 | ₹167 | 500L/day @ ₹5/1000L = ₹2.5/day |
+| **Labor (Salary)** | ₹5,760 | ₹480 | 1 worker per 25 units @ ₹12K/month |
+| **Water** | ₹912.5 | ₹76 | 500L/day @ ₹5/1000L = ₹2.5/day |
 | **Electricity** | ₹8,000 | ₹667 | Pump ₹500 + Lighting ₹200 |
 | **Maintenance** | ₹5,000 | ₹417 | Brick/plaster/metal repairs |
 | **Insurance** | ₹2,000 | ₹167 | Building insurance |
 | **Marketing** | ₹3,000 | ₹250 | Agent commission + ads |
-| **Depreciation** | ₹5,000 | ₹417 | ₹60K / 12 years useful life |
-| **Total Variable** | **₹35,000** | **₹2,917** | |
+| **Total Variable** | **₹30,000** | **₹2,500** | |
 
 ### Fixed Costs (Annual)
 
 | Expense              | Annual        | Monthly     | Source/Proof                                 |
 | -------------------- | ------------- | ----------- | -------------------------------------------- |
-| **Office Staff (3)** | ₹4,80,000     | ₹40,000     | Manager ₹15K + Accountant ₹12K + Helper ₹13K |
-| **Office Rent**      | ₹1,20,000     | ₹10,000     | Small office space                           |
-| **Accounting/Legal** | ₹60,000       | ₹5,000      | CA fees + legal compliance                   |
+| **on ground staff**  | ₹4,80,000     | ₹40,000     | 3 staff                                      |
 | **Miscellaneous**    | ₹40,000       | ₹3,333      | Office supplies, communication               |
-| **Total Fixed**      | **₹7,00,000** | **₹58,333** |                                              |
+| **Total Fixed**      | **₹6,40,000** | **₹53,333** |                                              |
 
+> on ground staff grows 15 every quater
 
 ---
 
