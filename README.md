@@ -211,10 +211,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 150 × ₹49,600 | 74,40,000 |
 | **Operating Expenses:** | | |
-| — Variable | 150 × ₹27,000 | -40,50,000 |
-| **Total Operating** | | **-40,50,000** |
-| **EBITDA** | Revenue - Operating | **33,90,000** |
-| **EBITDA Margin** | 33,90,000 / 74,40,000 | **45.6%** |
+| — Variable | 150 × ₹31,000 | -46,50,000 |
+| **Total Operating** | | **-46,50,000** |
+| **EBITDA** | Revenue - Operating | **27,90,000** |
+| **EBITDA Margin** | 27,90,000 / 74,40,000 | **37.5%** |
 
 ### Year 2 (230 Units)
 
