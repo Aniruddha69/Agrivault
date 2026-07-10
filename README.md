@@ -320,14 +320,14 @@ Total Operating Cost Per Unit: ₹27,000
 | **Ending Units (Year 5)** | 832 | 70% reinvestment |
 | **Total Units Built** | 682 | Sum of new units |
 | **Total Revenue** | ₹10,45,07,200 | Sum of 5 years |
-| **Total Operating Expenses** | ₹4,63,54,000 | Variable only |
-| **Total EBITDA** | **₹5,81,53,200** | Revenue - Operating |
-| **Average EBITDA Margin** | 55.6% | 5-year average |
+| **Total Operating Expenses** | ₹5,68,89,000 | Variable only |
+| **Total EBITDA** | **₹4,76,18,200** | Revenue - Operating |
+| **Average EBITDA Margin** | 45.6% | 5-year average |
 | **Annual Revenue (Year 5)** | ₹4,12,67,200 | 832 × ₹49,600 |
-| **Annual Operating (Year 5)** | ₹1,83,04,000 | Variable only |
-| **Annual EBITDA (Year 5)** | ₹2,29,63,200 | Revenue - Operating |
-| **EBITDA Margin (Year 5)** | 55.7% | EBITDA / Revenue |
+| **Annual Operating (Year 5)** | ₹2,24,64,000 | Variable only |
+| **Annual EBITDA (Year 5)** | ₹1,88,03,200 | Revenue - Operating |
+| **EBITDA Margin (Year 5)** | 45.6% | EBITDA / Revenue |
 
 ---
 
-> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable only). EBITDA margin ~55.6% across 5 years.
+> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable only). EBITDA margin ~45.6% across 5 years.
