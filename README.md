@@ -233,10 +233,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 353 × ₹49,600 | 1,75,08,800 |
 | **Operating Expenses:** | | |
-| — Variable | 353 × ₹22,000 | -77,66,000 |
-| **Total Operating** | | **-77,66,000** |
-| **EBITDA** | Revenue - Operating | **97,42,800** |
-| **EBITDA Margin** | 97,42,800 / 1,75,08,800 | **55.6%** |
+| — Variable | 353 × ₹27,000 | -95,31,000 |
+| **Total Operating** | | **-95,31,000** |
+| **EBITDA** | Revenue - Operating | **79,77,800** |
+| **EBITDA Margin** | 79,77,800 / 1,75,08,800 | **45.6%** |
 
 ### Year 4 (542 Units)
 
@@ -244,10 +244,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 542 × ₹49,600 | 2,68,83,200 |
 | **Operating Expenses:** | | |
-| — Variable | 542 × ₹22,000 | -1,19,24,000 |
-| **Total Operating** | | **-1,19,24,000** |
-| **EBITDA** | Revenue - Operating | **1,49,59,200** |
-| **EBITDA Margin** | 1,49,59,200 / 2,68,83,200 | **55.6%** |
+| — Variable | 542 × ₹27,000 | -1,46,34,000 |
+| **Total Operating** | | **-1,46,34,000** |
+| **EBITDA** | Revenue - Operating | **1,22,49,200** |
+| **EBITDA Margin** | 1,22,49,200 / 2,68,83,200 | **45.6%** |
 
 ### Year 5 (832 Units)
 
@@ -255,10 +255,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 832 × ₹49,600 | 4,12,67,200 |
 | **Operating Expenses:** | | |
-| — Variable | 832 × ₹22,000 | -1,83,04,000 |
-| **Total Operating** | | **-1,83,04,000** |
-| **EBITDA** | Revenue - Operating | **2,29,63,200** |
-| **EBITDA Margin** | 2,29,63,200 / 4,12,67,200 | **55.7%** |
+| — Variable | 832 × ₹27,000 | -2,24,64,000 |
+| **Total Operating** | | **-2,24,64,000** |
+| **EBITDA** | Revenue - Operating | **1,88,03,200** |
+| **EBITDA Margin** | 1,88,03,200 / 4,12,67,200 | **45.6%** |
 
 ---
 
@@ -268,9 +268,9 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|---|---|---|
 | **Units** | 150 | 230 | 353 | 542 | 832 |
 | **Revenue** | ₹74.4L | ₹114L | ₹175L | ₹269L | ₹413L |
-| **Operating Exp** | ₹33.0L | ₹50.6L | ₹77.7L | ₹119L | ₹183L |
-| **EBITDA** | ₹41.4L | ₹63.5L | ₹97.4L | ₹150L | ₹230L |
-| **EBITDA Margin** | 55.6% | 55.6% | 55.6% | 55.6% | 55.7% |
+| **Operating Exp** | ₹40.5L | ₹62.1L | ₹95.3L | ₹146L | ₹225L |
+| **EBITDA** | ₹33.9L | ₹52.0L | ₹79.8L | ₹122L | ₹188L |
+| **EBITDA Margin** | 45.6% | 45.6% | 45.6% | 45.6% | 45.6% |
 
 ---
 
@@ -293,19 +293,19 @@ Revenue Per Unit Per Year: ₹49,600
 ## Operating Expense Composition (Per Unit/Year)
 
 ```
-Total Operating Cost Per Unit: ₹22,000
+Total Operating Cost Per Unit: ₹27,000
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   ████████████████████████████  Maintenance: ₹5,000 (22.7%) │
+│   ████████████████████████████  Marketing: ₹8,000 (29.6%)   │
 │                                                              │
-│   █████████████████  Labor: ₹5,760 (26.2%)                  │
+│   █████████████████  Labor: ₹5,760 (21.3%)                  │
 │                                                              │
-│   ██████████  Marketing: ₹3,000 (13.6%)                     │
+│   ████████████████  Maintenance: ₹5,000 (18.5%)             │
 │                                                              │
-│   ████████  Insurance: ₹2,000 (9.1%)                         │
+│   ████████  Insurance: ₹2,000 (7.4%)                         │
 │                                                              │
-│   ███  Water: ₹912.5 (4.1%)                                 │
+│   ███  Water: ₹912.5 (3.4%)                                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
