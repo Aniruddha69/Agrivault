@@ -330,4 +330,4 @@ Total Operating Cost Per Unit: ₹31,000
 
 ---
 
-> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable only). EBITDA margin ~45.6% across 5 years.
+> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable only). EBITDA margin ~37.5% across 5 years.
