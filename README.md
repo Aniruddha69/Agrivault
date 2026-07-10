@@ -320,13 +320,13 @@ Total Operating Cost Per Unit: ₹31,000
 | **Ending Units (Year 5)** | 832 | 70% reinvestment |
 | **Total Units Built** | 682 | Sum of new units |
 | **Total Revenue** | ₹10,45,07,200 | Sum of 5 years |
-| **Total Operating Expenses** | ₹5,68,89,000 | Variable only |
-| **Total EBITDA** | **₹4,76,18,200** | Revenue - Operating |
-| **Average EBITDA Margin** | 45.6% | 5-year average |
+| **Total Operating Expenses** | ₹6,53,17,000 | Variable only |
+| **Total EBITDA** | **₹3,91,90,200** | Revenue - Operating |
+| **Average EBITDA Margin** | 37.5% | 5-year average |
 | **Annual Revenue (Year 5)** | ₹4,12,67,200 | 832 × ₹49,600 |
-| **Annual Operating (Year 5)** | ₹2,24,64,000 | Variable only |
-| **Annual EBITDA (Year 5)** | ₹1,88,03,200 | Revenue - Operating |
-| **EBITDA Margin (Year 5)** | 45.6% | EBITDA / Revenue |
+| **Annual Operating (Year 5)** | ₹2,57,92,000 | Variable only |
+| **Annual EBITDA (Year 5)** | ₹1,54,75,200 | Revenue - Operating |
+| **EBITDA Margin (Year 5)** | 37.5% | EBITDA / Revenue |
 
 ---
 
