@@ -185,9 +185,9 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 | **Labor (Salary)** | ₹5,760 | ₹480 | 1 worker per 25 units @ ₹12K/month |
 | **Water** | ₹912.5 | ₹76 | 500L/day @ ₹5/1000L = ₹2.5/day |
 | **Maintenance** | ₹5,000 | ₹417 | Brick/plaster/metal repairs |
-| **Insurance** | ₹2,000 | ₹167 | Building insurance |
+| **Insurance** | ₹6,000 | ₹500 | Building + produce coverage |
 | **Marketing** | ₹8,000 | ₹667 | Agent commission + ads |
-| **Total Variable** | **₹27,000** | **₹2,250** | |
+| **Total Variable** | **₹31,000** | **₹2,583** | |
 
 ---
 
