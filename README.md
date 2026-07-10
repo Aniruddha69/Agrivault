@@ -244,10 +244,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 542 × ₹49,600 | 2,68,83,200 |
 | **Operating Expenses:** | | |
-| — Variable | 542 × ₹27,000 | -1,46,34,000 |
-| **Total Operating** | | **-1,46,34,000** |
-| **EBITDA** | Revenue - Operating | **1,22,49,200** |
-| **EBITDA Margin** | 1,22,49,200 / 2,68,83,200 | **45.6%** |
+| — Variable | 542 × ₹31,000 | -1,68,02,000 |
+| **Total Operating** | | **-1,68,02,000** |
+| **EBITDA** | Revenue - Operating | **1,00,81,200** |
+| **EBITDA Margin** | 1,00,81,200 / 2,68,83,200 | **37.5%** |
 
 ### Year 5 (832 Units)
 
@@ -255,10 +255,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|
 | **Revenue** | 832 × ₹49,600 | 4,12,67,200 |
 | **Operating Expenses:** | | |
-| — Variable | 832 × ₹27,000 | -2,24,64,000 |
-| **Total Operating** | | **-2,24,64,000** |
-| **EBITDA** | Revenue - Operating | **1,88,03,200** |
-| **EBITDA Margin** | 1,88,03,200 / 4,12,67,200 | **45.6%** |
+| — Variable | 832 × ₹31,000 | -2,57,92,000 |
+| **Total Operating** | | **-2,57,92,000** |
+| **EBITDA** | Revenue - Operating | **1,54,75,200** |
+| **EBITDA Margin** | 1,54,75,200 / 4,12,67,200 | **37.5%** |
 
 ---
 
