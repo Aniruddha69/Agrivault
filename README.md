@@ -18,7 +18,7 @@
 
 ### What is ECSC?
 
-ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage technology** that uses water evaporation to cool produce .
+ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage technology** that uses water evaporation to cool produce.
 
 ### How It Works
 
@@ -168,11 +168,11 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 
 ## Revenue Breakdown Per Unit
 
-| Stream | Calculation | Annual/Unit | Proof |
-|---|---|---|---|
-| **Rental** | ₹3,500 × 10 months × 80% occupancy | ₹28,000 | Market rate ₹3,000-4,000/month |
-| **Commission (10%)** | ₹45,000 avg produce × 6 cycles × 80% × 10% | ₹21,600 | 10% of ₹45K produce value |
-| **Total Revenue** | | **₹49,600** | |
+| Stream | Calculation | Annual/Unit | % | Proof |
+|---|---|---|---|---|
+| **Rental** | ₹3,500 × 10 months × 80% occupancy | ₹28,000 | 56.5% | Market rate ₹3,000-4,000/month |
+| **Commission (10%)** | ₹45,000 avg produce × 6 cycles × 80% × 10% | ₹21,600 | 43.5% | 10% of ₹45K produce value |
+| **Total Revenue** | | **₹49,600** | **100%** | |
 
 ---
 
@@ -180,26 +180,33 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 
 ### Variable Costs (Per Unit Per Year)
 
-| Expense | Per Unit/Year | Per Unit/Month | Source/Proof |
-|---|---|---|---|
-| **Labor (Salary)** | ₹5,760 | ₹480 | 1 worker per 25 units @ ₹12K/month |
-| **Water** | ₹912.5 | ₹76 | 500L/day @ ₹5/1000L = ₹2.5/day |
-| **Maintenance** | ₹5,000 | ₹417 | Brick/plaster/metal repairs |
-| **Insurance** | ₹6,000 | ₹500 | Building + produce coverage |
-| **Marketing** | ₹8,000 | ₹667 | Agent commission + ads |
-| **Total Variable** | **₹31,000** | **₹2,583** | |
+| Expense | Per Unit/Year | Per Unit/Month | % | Source/Proof |
+|---|---|---|---|---|
+| **Labor (Salary)** | ₹5,760 | ₹480 | 22.4% | 1 worker per 25 units @ ₹12K/month |
+| **Water** | ₹912.5 | ₹76 | 3.6% | 500L/day @ ₹5/1000L = ₹2.5/day |
+| **Maintenance** | ₹5,000 | ₹417 | 19.5% | Brick/plaster/metal repairs |
+| **Insurance** | ₹6,000 | ₹500 | 23.4% | Building + produce coverage |
+| **Marketing** | ₹8,000 | ₹667 | 31.2% | Agent commission + ads |
+| **Total Variable** | **₹25,673** | **₹2,139** | **100%** | |
+
+### Fixed Costs (Annual)
+
+| Expense | Annual | Monthly | % | Source/Proof |
+|---|---|---|---|---|
+| **Miscellaneous** | ₹40,000 | ₹3,333 | 100% | Office supplies, communication |
+| **Total Fixed** | **₹40,000** | **₹3,333** | **100%** | |
 
 ---
 
 ## 5-Year Financial Projection
 
-| Year       | Units | New Units | Revenue (₹) | Operating Exp (₹) | EBITDA (₹)      | EBITDA % |
-| ---------- | ----- | --------- | ----------- | ----------------- | --------------- | -------- |
-| **Year 1** | 150   | 0         | 74,40,000   | 46,50,000         | **27,90,000**   | 37.5%    |
-| **Year 2** | 230   | +80       | 1,14,08,000 | 71,30,000         | **42,78,000**   | 37.5%    |
-| **Year 3** | 353   | +123      | 1,75,08,800 | 1,09,43,000       | **65,65,800**   | 37.5%    |
-| **Year 4** | 542   | +189      | 2,68,83,200 | 1,68,02,000       | **1,00,81,200** | 37.5%    |
-| **Year 5** | 832   | +290      | 4,12,67,200 | 2,57,92,000       | **1,54,75,200** | 37.5%    |
+| Year       | Units | New Units | Revenue (₹) | Op Exp (₹)  | Op %  | EBITDA (₹)    | EBITDA % |
+| ---------- | ----- | --------- | ----------- | ----------- | ----- | ------------- | -------- |
+| **Year 1** | 150   | 0         | 74,40,000   | 38,90,950   | 52.3% | **35,49,050** | 47.7%    |
+| **Year 2** | 230   | +80       | 1,14,08,000 | 59,44,790   | 52.1% | **54,63,210** | 47.9%    |
+| **Year 3** | 353   | +123      | 1,75,08,800 | 91,02,669   | 52.0% | **84,06,131** | 48.0%    |
+| **Year 4** | 542   | +189      | 2,68,83,200 | 1,39,54,766 | 51.9% | **1,29,28,434** | 48.1% |
+| **Year 5** | 832   | +290      | 4,12,67,200 | 2,13,99,936 | 51.9% | **1,98,67,264** | 48.1% |
 
 ---
 
@@ -207,58 +214,58 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 
 ### Year 1 (150 Units)
 
-| Item | Calculation | Amount (₹) |
-|---|---|---|
-| **Revenue** | 150 × ₹49,600 | 74,40,000 |
-| **Operating Expenses:** | | |
-| — Variable | 150 × ₹31,000 | -46,50,000 |
-| **Total Operating** | | **-46,50,000** |
-| **EBITDA** | Revenue - Operating | **27,90,000** |
-| **EBITDA Margin** | 27,90,000 / 74,40,000 | **37.5%** |
+| Item | Calculation | Amount (₹) | % of Revenue |
+|---|---|---|---|
+| **Revenue** | 150 × ₹49,600 | 74,40,000 | 100% |
+| **Operating Expenses:** | | | |
+| — Variable | 150 × ₹25,673 | -38,50,950 | 51.8% |
+| — Fixed | Annual | -40,000 | 0.5% |
+| **Total Operating** | | **-38,90,950** | **52.3%** |
+| **EBITDA** | Revenue - Operating | **35,49,050** | **47.7%** |
 
 ### Year 2 (230 Units)
 
-| Item | Calculation | Amount (₹) |
-|---|---|---|
-| **Revenue** | 230 × ₹49,600 | 1,14,08,000 |
-| **Operating Expenses:** | | |
-| — Variable | 230 × ₹31,000 | -71,30,000 |
-| **Total Operating** | | **-71,30,000** |
-| **EBITDA** | Revenue - Operating | **42,78,000** |
-| **EBITDA Margin** | 42,78,000 / 1,14,08,000 | **37.5%** |
+| Item | Calculation | Amount (₹) | % of Revenue |
+|---|---|---|---|
+| **Revenue** | 230 × ₹49,600 | 1,14,08,000 | 100% |
+| **Operating Expenses:** | | | |
+| — Variable | 230 × ₹25,673 | -59,04,790 | 51.8% |
+| — Fixed | Annual | -40,000 | 0.4% |
+| **Total Operating** | | **-59,44,790** | **52.1%** |
+| **EBITDA** | Revenue - Operating | **54,63,210** | **47.9%** |
 
 ### Year 3 (353 Units)
 
-| Item | Calculation | Amount (₹) |
-|---|---|---|
-| **Revenue** | 353 × ₹49,600 | 1,75,08,800 |
-| **Operating Expenses:** | | |
-| — Variable | 353 × ₹31,000 | -1,09,43,000 |
-| **Total Operating** | | **-1,09,43,000** |
-| **EBITDA** | Revenue - Operating | **65,65,800** |
-| **EBITDA Margin** | 65,65,800 / 1,75,08,800 | **37.5%** |
+| Item | Calculation | Amount (₹) | % of Revenue |
+|---|---|---|---|
+| **Revenue** | 353 × ₹49,600 | 1,75,08,800 | 100% |
+| **Operating Expenses:** | | | |
+| — Variable | 353 × ₹25,673 | -90,62,669 | 51.8% |
+| — Fixed | Annual | -40,000 | 0.2% |
+| **Total Operating** | | **-91,02,669** | **52.0%** |
+| **EBITDA** | Revenue - Operating | **84,06,131** | **48.0%** |
 
 ### Year 4 (542 Units)
 
-| Item | Calculation | Amount (₹) |
-|---|---|---|
-| **Revenue** | 542 × ₹49,600 | 2,68,83,200 |
-| **Operating Expenses:** | | |
-| — Variable | 542 × ₹31,000 | -1,68,02,000 |
-| **Total Operating** | | **-1,68,02,000** |
-| **EBITDA** | Revenue - Operating | **1,00,81,200** |
-| **EBITDA Margin** | 1,00,81,200 / 2,68,83,200 | **37.5%** |
+| Item | Calculation | Amount (₹) | % of Revenue |
+|---|---|---|---|
+| **Revenue** | 542 × ₹49,600 | 2,68,83,200 | 100% |
+| **Operating Expenses:** | | | |
+| — Variable | 542 × ₹25,673 | -1,39,14,766 | 51.8% |
+| — Fixed | Annual | -40,000 | 0.1% |
+| **Total Operating** | | **-1,39,54,766** | **51.9%** |
+| **EBITDA** | Revenue - Operating | **1,29,28,434** | **48.1%** |
 
 ### Year 5 (832 Units)
 
-| Item | Calculation | Amount (₹) |
-|---|---|---|
-| **Revenue** | 832 × ₹49,600 | 4,12,67,200 |
-| **Operating Expenses:** | | |
-| — Variable | 832 × ₹31,000 | -2,57,92,000 |
-| **Total Operating** | | **-2,57,92,000** |
-| **EBITDA** | Revenue - Operating | **1,54,75,200** |
-| **EBITDA Margin** | 1,54,75,200 / 4,12,67,200 | **37.5%** |
+| Item | Calculation | Amount (₹) | % of Revenue |
+|---|---|---|---|
+| **Revenue** | 832 × ₹49,600 | 4,12,67,200 | 100% |
+| **Operating Expenses:** | | | |
+| — Variable | 832 × ₹25,673 | -2,13,59,936 | 51.8% |
+| — Fixed | Annual | -40,000 | 0.1% |
+| **Total Operating** | | **-2,13,99,936** | **51.9%** |
+| **EBITDA** | Revenue - Operating | **1,98,67,264** | **48.1%** |
 
 ---
 
@@ -268,9 +275,10 @@ ECSC (Evaporative Cooling Storage Chamber) is a **low-cost, passive cold storage
 |---|---|---|---|---|---|
 | **Units** | 150 | 230 | 353 | 542 | 832 |
 | **Revenue** | ₹74.4L | ₹114L | ₹175L | ₹269L | ₹413L |
-| **Operating Exp** | ₹46.5L | ₹71.3L | ₹109L | ₹168L | ₹258L |
-| **EBITDA** | ₹27.9L | ₹42.8L | ₹65.7L | ₹101L | ₹155L |
-| **EBITDA Margin** | 37.5% | 37.5% | 37.5% | 37.5% | 37.5% |
+| **Operating Exp** | ₹38.9L | ₹59.4L | ₹91.0L | ₹140L | ₹214L |
+| **Op %** | 52.3% | 52.1% | 52.0% | 51.9% | 51.9% |
+| **EBITDA** | ₹35.5L | ₹54.6L | ₹84.1L | ₹129L | ₹199L |
+| **EBITDA Margin** | 47.7% | 47.9% | 48.0% | 48.1% | 48.1% |
 
 ---
 
@@ -293,19 +301,20 @@ Revenue Per Unit Per Year: ₹49,600
 ## Operating Expense Composition (Per Unit/Year)
 
 ```
-Total Operating Cost Per Unit: ₹31,000
+Total Operating Cost Per Unit: ₹25,673 (Variable) + ₹40,000 (Fixed)
 
+Variable Costs Breakdown:
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   ████████████████████████████  Marketing: ₹8,000 (25.8%)   │
+│   ████████████████████████████  Marketing: ₹8,000 (31.2%)   │
 │                                                              │
-│   ████████████████████  Labor: ₹5,760 (18.6%)               │
+│   ████████████████████  Insurance: ₹6,000 (23.4%)           │
 │                                                              │
-│   ████████████████  Maintenance: ₹5,000 (16.1%)             │
+│   ████████████████  Labor: ₹5,760 (22.4%)                   │
 │                                                              │
-│   ████████████████  Insurance: ₹6,000 (19.4%)               │
+│   ██████████████  Maintenance: ₹5,000 (19.5%)               │
 │                                                              │
-│   ███  Water: ₹912.5 (2.9%)                                 │
+│   ███  Water: ₹912.5 (3.5%)                                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -320,14 +329,14 @@ Total Operating Cost Per Unit: ₹31,000
 | **Ending Units (Year 5)** | 832 | 70% reinvestment |
 | **Total Units Built** | 682 | Sum of new units |
 | **Total Revenue** | ₹10,45,07,200 | Sum of 5 years |
-| **Total Operating Expenses** | ₹6,53,17,000 | Variable only |
-| **Total EBITDA** | **₹3,91,90,200** | Revenue - Operating |
-| **Average EBITDA Margin** | 37.5% | 5-year average |
+| **Total Operating Expenses** | ₹5,42,93,111 | Variable + Fixed |
+| **Total EBITDA** | **₹5,02,14,089** | Revenue - Operating |
+| **Average EBITDA Margin** | 48.0% | 5-year average |
 | **Annual Revenue (Year 5)** | ₹4,12,67,200 | 832 × ₹49,600 |
-| **Annual Operating (Year 5)** | ₹2,57,92,000 | Variable only |
-| **Annual EBITDA (Year 5)** | ₹1,54,75,200 | Revenue - Operating |
-| **EBITDA Margin (Year 5)** | 37.5% | EBITDA / Revenue |
+| **Annual Operating (Year 5)** | ₹2,13,99,936 | Variable + Fixed |
+| **Annual EBITDA (Year 5)** | ₹1,98,67,264 | Revenue - Operating |
+| **EBITDA Margin (Year 5)** | 48.1% | EBITDA / Revenue |
 
 ---
 
-> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable only). EBITDA margin ~37.5% across 5 years.
+> **Note:** All figures are based on 70% EBITDA reinvestment model. Operating expenses include labor, water, maintenance, insurance, marketing (variable ₹25,673/unit) and miscellaneous (fixed ₹40,000/year). EBITDA margin ~48% across 5 years.
